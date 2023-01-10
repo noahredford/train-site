@@ -1,0 +1,41 @@
+* {
+    font-family: 'Quattrocento Sans', sans-serif;
+}
+
+:root {
+    --black: black;
+    --yellow: #ffc709;
+    --white: white;
+}
+
+::selection {
+    color: var(--black);
+    background-color: var(--yellow);
+  }
+
+.custom-navbar {
+    background-color: var(--yellow);
+}
+
+.custom-navbar a {
+    color: var(--black);
+    font-size: 3vh;
+}
+
+.navbar-nav > li{
+    margin-left:30px;
+    margin-right:30px;
+  }
+
+.icon {
+    height: 5vh;
+    background-color: #ffc709;
+    color: black;
+    border-radius: 50%;
+}
+
+#header {
+    font-weight: bolder;
+    padding: 3vh;
+}
+
