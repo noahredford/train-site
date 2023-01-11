@@ -36,6 +36,51 @@
 
 #header {
     font-weight: bolder;
-    padding: 3vh;
+    padding-top: 8vh;
+    padding-bottom: -2vh;
 }
 
+#header2 {
+    font-size: 15vh;
+    padding-top: -2vh;
+}
+
+.container {
+    padding-top: 2vh;
+    padding-bottom: 2vh;
+}
+
+.col-sm {
+    padding: 4vh;
+    font-size: 3vh;
+}
+
+
+.col {
+    border: black solid .5vh;
+    background-color: #ffc709;
+    padding: 2vh;
+}
+
+.header3 {
+    font-size: 7vh;
+}
+
+
+.col1 {
+    background-color: white;
+    padding: 1px;
+    border: none;
+    margin: none;
+}
+
+.card {
+    background-color: white;
+    width: 50vh;
+    height: 75vh;
+    
+}
+
+.unit-card {
+    padding-left: 5vh;
+}
