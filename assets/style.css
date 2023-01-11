@@ -188,3 +188,19 @@ a.hompage1:link {
 #boody {
     margin-left: 10px;
 }
+
+.cstm-button {
+    margin-top: 2vh;
+    margin-left: 550px;
+    height: 40px;
+    width: 200px;
+    border: 1px solid var(--BLUE);
+    background: var(--BLUE);
+    border-radius: 7px;
+    color: var(--offWHite);
+}
+
+.cstm-button:hover {
+    background-color: #FFC709;
+    color: black;
+}

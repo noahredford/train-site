@@ -6,7 +6,7 @@ const continueBtn = document.querySelector(".restart");
 const quizBox = document.querySelector(".quiz-box");
 const endBox = document.querySelector("#quiz-end");
 const submitBtn = document.querySelector("#save-score");
-const initialsText = document.querySelector("#initials");
+
 var existing = localStorage.getItem('results');
 existing = existing ? existing.split(',') : [];
 var queCount = 0;
@@ -99,14 +99,4 @@ function quizEnd(){
     scoreText.innerHTML = scoreTag; 
 }
 //Submit Initials
-submitBtn.onclick = () => {
-    let initials = initialsText.value;
-    //Store Initials and Score in Local Storage
-    var resultsDataObj = {
-        initials: initials,
-        score: score
-    }
-    localStorage.setItem((localStorage.length+1), JSON.stringify(resultsDataObj));
-    initialsText.value = ""
-    location.reload();
-}
+// submitBtn.onclick = () => {
