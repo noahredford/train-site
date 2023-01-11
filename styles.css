@@ -8,6 +8,11 @@
     --white: white;
 }
 
+.btn {
+    background-color: black;
+    border: none;
+}
+
 ::selection {
     color: var(--black);
     background-color: var(--yellow);
@@ -75,7 +80,7 @@
 }
 
 .card {
-    margin: 10px;
+    margin: 5vh;
     
 }
 
@@ -84,3 +89,30 @@
 }
 
 
+#header-vision {
+    font-size: 8vh;
+    font-weight: bold;
+    background-color: #ffc709;
+}
+
+#p-vision {
+    font-size: 4vh;
+    font-weight: bold;
+    padding-top: 1vh;
+    padding-bottom: 1vh;
+}
+
+.blurb {
+    font-size: 3vh;
+    text-align: center;
+}
+
+#resources {
+    text-align: center;
+    margin-top: 6vh;
+    font-size: 7vh;
+}
+
+#lease-box {
+    background-color: #ffc709;
+}
