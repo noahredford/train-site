@@ -115,4 +115,32 @@
 
 #lease-box {
     background-color: #ffc709;
+    height: 14vh;
+}
+
+#app-img {
+    padding-bottom: 3vh;
+}
+
+#first-check {
+    padding-left: 25vh;
+}
+
+#second-check {
+    padding-left: 50vh;
+}
+
+/* Remove default bullets */
+ul, #myUL {
+    list-style-type: none;
+  }
+  
+  /* Remove margins and padding from the parent ul */
+ .caret {
+    font-weight: bold;
+    font-size: 3vh;
+ }
+  
+#myUL {
+    padding-right: 5vh;
 }
