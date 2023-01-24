@@ -1,13 +1,13 @@
 let questions = [
     {
         numb: 1,
-        question: "When did John Ochs move into 432 D Pheasant Ridge?",
-        answer: "09/30/2021",
+        question: "How much did Ciarra Fuller pay in rent at 319 Park A?",
+        answer: "$1,275",
         options: [
-            "06/23/2003",
-            "09/30/2021",
-            "09/20/2021",
-            "10/08/2020"
+            "$1,299",
+            "$999",
+            "$1,275",
+            "$2,210"
         ]
     },
     {

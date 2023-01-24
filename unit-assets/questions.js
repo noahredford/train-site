@@ -38,14 +38,14 @@ let questions = [
         answer: "None of the Above",
         options: [
             "Fenced Yard",
-            "Fiber Optic Internet",
+            "Vending Machine's",
             "Deck",
             "None of the Above",
         ]
     }, 
     {
         numb: 5,
-        question : "How many upstairs Aparment do we manage?",
+        question : "How many upstairs Aparments do we manage?",
         answer: "95",
         options: [
             "54",
@@ -84,7 +84,7 @@ let questions = [
             "2,043",
             "900",
             "2,311",
-            "3,213",
+            "2,418",
         ]
     },
     {
@@ -106,7 +106,7 @@ let questions = [
             "Jessica Hope",
             "James Wilske",
             "Bill Quale",
-            "None of the Above",
+            "There was no resident at that time",
         ]
     }
 ];
