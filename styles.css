@@ -144,3 +144,7 @@ ul, #myUL {
 #myUL {
     padding-right: 5vh;
 }
+
+.small-title {
+    font-weight: bolder;
+}
