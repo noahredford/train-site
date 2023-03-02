@@ -4,7 +4,7 @@ let questions = [
         question: "How much did Ciarra Fuller pay in rent at 319 Park A?",
         answer: "$1,275",
         options: [
-            "$1,299",
+            "$1,275",
             "$999",
             "$1,275",
             "$2,210"

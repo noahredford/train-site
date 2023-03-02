@@ -101,7 +101,7 @@ let questions = [
     {
         numb: 10,
         question : "Who was the resident at 1981 Bengalview Drive in January of 2023?",
-        answer: "None of the Above",
+        answer: "There was no resident at that time",
         options: [
             "Jessica Hope",
             "James Wilske",

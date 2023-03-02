@@ -18,7 +18,7 @@ let questions = [
             "1422 Redman Ave",
             "1066 Yellowstone Ave #12",
             "1248 Gathe Dr",
-            "903 N Garfield Ave",
+            "903 N Garfield",
         ]
     },
     {
